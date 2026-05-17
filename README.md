@@ -1,135 +1,165 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vishwajit0345/vishwajit0345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Vishwajit&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Quantitative%20Finance%20%E2%80%A2%20ML%20Engineering%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+### 🎓 BTech CSE · DSATM Bengaluru · CGPA 9.33 / 10 · JEE 94.6 percentile
+### 🚀 Open to SWE & Fintech Roles — Graduating 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vishwajit%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Data%20Scientist&descAlignY=68&descSize=18&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Live_Demo-Quant_Terminal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_VERCEL_LINK)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
+## 💡 What I Build
+
+> I build **production-grade quantitative finance and ML systems** — not toy projects.
+> My flagship app implements the same portfolio math used at institutional desks: Black-Litterman, Ledoit-Wolf shrinkage, walk-forward backtesting with zero lookahead, and Cornish-Fisher CVaR — all in a live React interface deployed on Vercel.
+
+---
+
+## 🏆 Featured Projects
+
+### 1. 🖥️ [Quant Terminal](https://github.com/Vishwajit0345/quant-terminal) — Bloomberg-Style Portfolio Optimizer
+> **React + Vite · Recharts · IndexedDB · Yahoo Finance API** | [🔗 Live Demo](https://YOUR_VERCEL_LINK)
+
+A full-featured portfolio analytics platform with **institutional-grade** quantitative methods. 5,800+ lines of production React.
+
+| Method | What It Does |
+|--------|-------------|
+| **He-Litterman Black-Litterman** | Blends investor views with market equilibrium |
+| **OAS Ledoit-Wolf Shrinkage** | Robust covariance estimation, avoids matrix singularity |
+| **Frank-Wolfe Max-Sharpe** | Convex optimization for risk-adjusted return maximization |
+| **Walk-Forward Backtesting** | Zero lookahead bias, rolling rebalance windows |
+| **Cornish-Fisher CVaR** | Non-Gaussian tail risk with skewness & kurtosis correction |
+| **Newton-Raphson XIRR** | Cash-flow-weighted return calculation |
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+
+---
+
+### 2. 📊 [Quant Volatility Intelligence System](https://github.com/Vishwajit0345/quant-vol-intel)
+> **Python · Plotly Dash · NumPy · SciPy**
+
+Options volatility analytics dashboard with regime-aware modelling.
+
+- **GARCH / EGARCH / GJR-GARCH** volatility regime modelling
+- **SVI parametrization** of the full implied volatility surface
+- **3D interactive volatility surface** with Plotly
+- **VaR / CVaR** risk metrics at configurable confidence levels
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+---
+
+### 3. 💸 [AI Expense Analyzer](https://github.com/Vishwajit0345/ai-expense-analyzer)
+> **Flutter · FastAPI · scikit-learn · JWT Auth**
+
+Production full-stack mobile app with ML-powered personal finance intelligence.
+
+- ML **expense categorization** (multi-class classification)
+- **Anomaly detection** on spending patterns
+- **Future spend prediction** with personalized forecasting
+- JWT-secured REST API with proper auth flows
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+### 5. 🧠 [Adaptive Meta-Scheduler](https://github.com/Vishwajit0345/adaptive-meta-scheduler) — Final Year Project
+> **Python · NumPy · Q-Learning · Contextual Bandit**
+
+A self-learning CPU scheduling system that picks the best algorithm per workload.
+
+- **Pure-NumPy LSTM** burst-time predictor — no deep learning frameworks
+- **Q-table contextual bandit** (γ=0) selecting among SJF, FCFS, RR, Priority
+- Real-time adaptation to workload characteristics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend & ML**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Infra & Data**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-### 🌌 *"Transforming raw data into intelligent decisions"*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishwajit0345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajit0345&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Data+Science+%26+Analytics+%F0%9F%93%8A;AI+%7C+Python+%7C+Docker+%7C+Linux+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vishwajit0345&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🧠 AI / ML / Data Science
+## 📌 Quick Reference
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Keras](https://img.shields.io/badge/Keras-1a1a2e?style=for-the-badge&logo=keras&logoColor=D00000)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=013243)
-![SciPy](https://img.shields.io/badge/SciPy-1a1a2e?style=for-the-badge&logo=scipy&logoColor=8CAAE6)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1a2e?style=for-the-badge&logo=plotly&logoColor=00BFFF)
-![Seaborn](https://img.shields.io/badge/Seaborn-1a1a2e?style=for-the-badge&logo=python&logoColor=7BC8F6)
-
-</div>
-
----
-
-## 💻 Languages
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-16213e?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-16213e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-16213e?style=for-the-badge&logo=c&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-16213e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-16213e?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-16213e?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-16213e?style=for-the-badge&logo=postgresql&logoColor=316192)
-
-</div>
-
----
-
-## 📊 Data & Analytics Tools
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-0f3460?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-0f3460?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
-![MySQL](https://img.shields.io/badge/MySQL-0f3460?style=for-the-badge&logo=mysql&logoColor=00f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f3460?style=for-the-badge&logo=postgresql&logoColor=316192)
-
-</div>
-
----
-
-## 🛠️ Tools & Platforms
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1b2a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1b2a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
-![Anaconda](https://img.shields.io/badge/Anaconda-0d1b2a?style=for-the-badge&logo=anaconda&logoColor=44A833)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishwajit0345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajit0345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajit0345&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=aaaaaa"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwajit0345&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-
+| Project | Stack | Key Technique |
+|---------|-------|---------------|
+| [Quant Terminal](https://github.com/Vishwajit0345/quant-terminal) | React · Vite | Black-Litterman · Walk-Forward Backtesting |
+| [Quant Vol Intel](https://github.com/Vishwajit0345/quant-vol-intel) | Python · Dash | GARCH · SVI · 3D Vol Surface |
+| [AI Expense Analyzer](https://github.com/Vishwajit0345/ai-expense-analyzer) | Flutter · FastAPI | ML Categorization · Anomaly Detection |
+| [Adaptive Meta-Scheduler](https://github.com/Vishwajit0345/adaptive-meta-scheduler) | Python · NumPy | LSTM · Contextual Bandit |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
+### 💬 Let's Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vishwajit0345&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+**Actively targeting SWE and Fintech roles — 2026 placements.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br>
+
+*"Markets are complex adaptive systems. So is good code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
