@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Final+Year+IS+Engineer+%40+DSATM+Bangalore+%F0%9F%8E%93;AI+%7C+ML+%7C+Data+Science+%7C+Full+Stack+Developer;CGPA+9.33+%7C+Fresher+%7C+Open+to+Opportunities+%F0%9F%9A%80;Building+Intelligent+Systems+%26+Data+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Final+Year+IS+Engineer+%40+DSATM+Bangalore+%F0%9F%8E%93;AI+%7C+ML+%7C+Data+Science+%7C+Full+Stack+Developer;CGPA+9.37+%7C+Fresher+%7C+Open+to+Opportunities+%F0%9F%9A%80;Building+Intelligent+Systems+%26+Data+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
