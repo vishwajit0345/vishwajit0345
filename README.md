@@ -33,7 +33,7 @@
 Name        : Vishwajit Kumar
 Degree      : B.E. Information Science & Engineering (Final Year)
 College     : Dayananda Sagar Academy of Technology and Management, Bangalore
-CGPA        : 9.33 / 10.0  ⭐
+CGPA        : 9.37 / 10.0  ⭐
 Status      : Fresher | Available Immediately
 Passion     : Building AI-powered solutions & data-driven applications
 Location    : Bangalore, India 📍
